@@ -1,0 +1,4 @@
+task/__pycache__/*
+task/clients/__pycache__/*
+task/models/__pycache__/*
+*/__pycache__/*
